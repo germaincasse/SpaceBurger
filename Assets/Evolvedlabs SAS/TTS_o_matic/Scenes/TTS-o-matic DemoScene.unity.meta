@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 635473485f6033b4f90dad4dc1c3784b
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 319040
+  packageName: TTS-o-matic local AI text to speech
+  packageVersion: 1.1.0
+  assetPath: Assets/Evolvedlabs SAS/TTS_o_matic/Scenes/TTS-o-matic DemoScene.unity
+  uploadId: 760738

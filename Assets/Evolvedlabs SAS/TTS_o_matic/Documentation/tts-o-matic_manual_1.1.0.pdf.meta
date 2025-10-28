@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d7f0e04ee0780ef46beecca813d79b10
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 319040
+  packageName: TTS-o-matic local AI text to speech
+  packageVersion: 1.1.0
+  assetPath: Assets/Evolvedlabs SAS/TTS_o_matic/Documentation/tts-o-matic_manual_1.1.0.pdf
+  uploadId: 760738

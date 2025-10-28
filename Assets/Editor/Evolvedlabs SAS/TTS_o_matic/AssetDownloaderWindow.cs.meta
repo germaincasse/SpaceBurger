@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c92768b2c242c7d4ba53255f36e15f43
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 319040
+  packageName: TTS-o-matic local AI text to speech
+  packageVersion: 1.1.0
+  assetPath: Assets/Editor/Evolvedlabs SAS/TTS_o_matic/AssetDownloaderWindow.cs
+  uploadId: 760738

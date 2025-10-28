@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d41c469534c150348ac81b62800e8806
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 12388, guid: 0000000000000000e000000000000000, type: 0}
+  disableValidation: 0
+AssetOrigin:
+  serializedVersion: 1
+  productId: 319040
+  packageName: TTS-o-matic local AI text to speech
+  packageVersion: 1.1.0
+  assetPath: Assets/Evolvedlabs SAS/TTS_o_matic/Scenes/UnityDefaultRuntimeTheme.tss
+  uploadId: 760738

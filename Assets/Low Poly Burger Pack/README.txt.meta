@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cf8ef8bda15ad114f965e68169a91954
+timeCreated: 1516840491
+licenseType: Store
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 110019
+  packageName: Low Poly Burger Pack
+  packageVersion: 1.2
+  assetPath: Assets/Low Poly Burger Pack/README.txt
+  uploadId: 342777

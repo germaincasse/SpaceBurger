@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 4d5493d23a22b9d49b4007ecbd5d5226
+timeCreated: 1576013532
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 110019
+  packageName: Low Poly Burger Pack
+  packageVersion: 1.2
+  assetPath: Assets/Low Poly Burger Pack/Prefabs/Ingredients/Burger_Burned.prefab
+  uploadId: 342777

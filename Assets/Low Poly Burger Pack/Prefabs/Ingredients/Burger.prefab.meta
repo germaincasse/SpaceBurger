@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 9f2bff547fdcd094a9e9dc6154006de6
+timeCreated: 1517792844
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 110019
+  packageName: Low Poly Burger Pack
+  packageVersion: 1.2
+  assetPath: Assets/Low Poly Burger Pack/Prefabs/Ingredients/Burger.prefab
+  uploadId: 342777

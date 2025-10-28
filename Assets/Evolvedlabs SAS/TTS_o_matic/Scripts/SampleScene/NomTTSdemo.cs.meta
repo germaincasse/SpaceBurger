@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8cae9bc0709e045429569213727d906f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 319040
+  packageName: TTS-o-matic local AI text to speech
+  packageVersion: 1.1.0
+  assetPath: Assets/Evolvedlabs SAS/TTS_o_matic/Scripts/SampleScene/NomTTSdemo.cs
+  uploadId: 760738

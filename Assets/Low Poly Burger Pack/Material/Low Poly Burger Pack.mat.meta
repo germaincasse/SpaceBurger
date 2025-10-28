@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 061879eb775cb9d4295755b46d4c3277
+timeCreated: 1516670827
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 110019
+  packageName: Low Poly Burger Pack
+  packageVersion: 1.2
+  assetPath: Assets/Low Poly Burger Pack/Material/Low Poly Burger Pack.mat
+  uploadId: 342777
